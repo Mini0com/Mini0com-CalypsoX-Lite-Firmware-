@@ -18,8 +18,11 @@ SMS and PDU Demonstrations
 Mini0com CalypsoX Lite includes demonstrations involving different SMS formats and SIM Toolkit-related messages, including:
 
 Class 0 — Flash SMS
+
 WAP Push Service Indication (SI)
+
 WAP Push Service Loading (SL)
+
 S@T Setup Call
 
 Featured Proof of Concept: S@T PDU Setup Call
