@@ -30,3 +30,7 @@ Featured Proof of Concept: S@T PDU Setup Call
 The main focus of this demonstration is transmitting an S@T Setup Call PDU using a Motorola C193 mobile phone.
 Unlike demonstrations that rely on a conventional USB GSM modem, this proof of concept uses the Motorola C193 handset for PDU transmission.
 The objective is to demonstrate this alternative hardware-based approach and explore the interaction between GSM messaging, SIM Toolkit functionality, and compatible test equipment.
+
+![image alt](https://github.com/Mini0com/Mini0com-CalypsoX-Lite-Firmware-/blob/527b450391b5b6f8c4f1c5b0048a50ab0564b0af/MC-Firmware2.PNG)
+
+![image alt](https://github.com/Mini0com/Mini0com-CalypsoX-Lite-Firmware-/blob/527b450391b5b6f8c4f1c5b0048a50ab0564b0af/MC-firmware.PNG)
